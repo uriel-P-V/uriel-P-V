@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uriel-p-v&label=Profile%20views&color=0e75b6&style=flat" alt="uriel-p-v" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **---**
 
 - 📫 How to reach me **uriperez4142@gmail.com**
 
