@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uriel-p-v&label=Profile%20views&color=0e75b6&style=flat" alt="uriel-p-v" /> </p>
 
-- 🔭 I'm currently working on **[weather-bdd-tests](https://github.com/uriel-P-V/weather-bdd-tests)** — BDD test suite with Behave, Gherkin and GitHub Actions CI/CD
+- 🔭 'm currently working on projects involving a BDD test suite with Behave, Gherkin and GitHub Actions CI/CD."
 - 🌱 I'm currently learning **BDD with Behave, test automation architecture and contract testing**
 - 💼 I'm looking for opportunities as **Test Automation Developer**
 - 📫 How to reach me **uriperez4142@gmail.com**
@@ -85,10 +85,7 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uriel-p-v&show_icons=true&locale=en&layout=compact" alt="uriel-p-v" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uriel-p-v&show_icons=true&locale=en" alt="uriel-p-v" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uriel-p-v&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uriel-p-v&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
